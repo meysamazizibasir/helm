@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v2
+    appVersion: 2.0.5
+    created: "2025-04-06T17:07:24.148905316+03:30"
+    description: my nginx chart
+    digest: df0b69c0060165aa782ac083592eaf85caa866ba95dc08c53e67558aacb4be82
+    name: my-app
+    urls:
+    - my-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-04-06T17:07:24.148422603+03:30"
